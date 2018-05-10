@@ -1,0 +1,1 @@
+<?php require_once("../../includes/initializations.php");  redirectTo(SITE_ROOT);?>
