@@ -13,7 +13,7 @@
         }
     ],
     "require": {
-        "php": ">=7.0",
+
         "monolog/monolog": "^1.23",
         "setasign/fpdf": "^1.8",
         "phpmailer/phpmailer": "^6.0"
