@@ -1,6 +1,6 @@
 {
     "name": "achd/core",
-    "version": "1.0.0",
+    "version": "v1.1.1",
     "description": "Core framework for ACHD related projects. Includes base classes for ActiveRecord pattern, a facade for creating ",
     "keywords": ["email", "forms","database"],
     "homepage": "http://github.com/acharris22306/ACHD",
